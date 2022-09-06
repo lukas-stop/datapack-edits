@@ -1,0 +1,19 @@
+{
+    "type": "origins:action_over_time",
+    "interval": 60,
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:execute_command",
+                "command": "effect give @a[distance=1..15,tags=!beast] minecraft:weakness 5 1 true"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "effect give @a[distance=1..15,tags=!beast] minecraft:mining_fatigue 5 0 true"
+            }
+        ]
+    },
+    "name": "Terrifiyng Appearance",
+    "description": "You intimidate anyone who is not a beast like creature themselves, giving them weakness and mining fatigue when in a radius of 15 blocks around you."
+}

@@ -1,0 +1,6 @@
+{
+    "type": "extraorigins:modify_size",
+    "scale": 0.5,
+    "name": "Small",
+    "description": "You are half the size of a normal Player."
+}

@@ -1,0 +1,23 @@
+{
+    "unchoosable": false,
+    "powers": [
+        "mysticorigins:terrifiyng",
+        "mysticorigins:claws",
+        "mysticorigins:bite",
+        "mysticorigins:stealthy",
+        "mysticorigins:hunting_ground",
+        "mysticorigins:creepy_ambiente",
+        "mysticorigins:fear_of_flames",
+        "origins:carnivore",
+        "origins:no_shield",
+        "origins:light_armor",
+
+        "mysticorigins:beast",
+        "mysticorigins:wendigo"
+    ],
+    "icon": "rotten_flesh",
+    "order": 5,
+    "impact": 3,
+    "name": "Wendigo",
+    "description": "Flesh. Blood. Death. You only live to consume others. The Wendigo is a Monster with no mercy. It loves to drive fear into the hearts of its prey before it ultimatly kills them."
+}

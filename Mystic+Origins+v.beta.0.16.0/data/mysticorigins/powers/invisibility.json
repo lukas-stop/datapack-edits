@@ -1,0 +1,22 @@
+{
+    "type": "origins:multiple",
+    "invis": {
+        "type": "origins:invisibility",
+        "render_armor": true,
+        "condition": {
+            "type": "origins:power_active",
+            "power": "mysticorigins:invisibility_toggle"
+        }
+    },
+    "metabolism": {
+        "type": "origins:exhaust",
+        "interval": 20,
+        "exhaustion": 0.450,
+        "condition": {
+          "type": "origins:power_active",
+          "power": "mysticorigins:invisibility_toggle"
+        }
+    },
+    "name": "Invisibility",
+    "description": "You can toggle invisibility with the secondary power key. Being invisible however costs more energy."
+}
