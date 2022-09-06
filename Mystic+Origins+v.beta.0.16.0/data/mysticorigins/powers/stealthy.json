@@ -1,9 +1,0 @@
-{
-    "type": "origins:model_color",
-    "alpha": 0.2,
-    "condition": {
-        "type": "origins:sneaking"
-    },
-    "name": "Stealthy",
-    "description": "You become almost invisible when sneaking."
-}
