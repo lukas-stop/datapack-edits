@@ -1,0 +1,22 @@
+{
+    "type": "origins:modify_damage_dealt",
+    "modifier": {
+        "operation": "addition",
+        "value": 6
+    },
+    "damage_condition": {
+        "type": "origins:name",
+        "name": "generic"
+    },
+    "condition": {
+        "type": "origins:equipped_item",
+        "equipment_slot": "mainhand",
+        "item_condition": {
+            "type": "origins:harvest_level",
+            "comparison": "equal",
+            "compare_to": 0
+        }
+    },
+    "name": "Claws",
+    "description": "You deal more damage than usual with bare hands."
+}

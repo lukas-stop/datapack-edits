@@ -1,0 +1,23 @@
+{
+    "unchoosable": false,
+    "powers": [
+        "origins:water_breathing",
+        "mysticorigins:songs_of_the_siren",
+		"origins:water_vision",
+		"origins:aqua_affinity",
+        "origins:swim_speed",
+        "origins:like_water",
+        "mysticorigins:bite",
+        "mysticorigins:legless",
+        "origins:carnivore",
+
+        "mysticorigins:beast",
+		"origins:aquatic",
+		"origins:conduit_power_on_land"
+    ],
+    "icon": "tropical_fish",
+    "impact": 3,
+    "order": 2,
+    "name": "Siren",
+    "description": "A creature of the ocean, coming on shore only to decive others with its beautiful song to then feast upon them. Despised by most people they are often hunted down."
+}

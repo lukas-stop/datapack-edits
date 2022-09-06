@@ -1,0 +1,23 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:iron_sword",
+        "minecraft:iron_axe",
+        "minecraft:iron_pickaxe",
+        "minecraft:iron_shovel",
+        "minecraft:iron_hoe",
+        "minecraft:iron_helmet",
+        "minecraft:iron_chestplate",
+        "minecraft:iron_leggings",
+        "minecraft:iron_bars",
+        "minecraft:iron_block",
+        "minecraft:iron_door",
+        "minecraft:iron_door",
+        "minecraft:iron_horse_armor",
+        "minecraft:iron_ingot",
+        "minecraft:iron_nugget",
+        "minecraft:iron_boots",
+        "minecraft:iron_ore",
+        "minecraft:iron_trapdoor"
+    ]
+}

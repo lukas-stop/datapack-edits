@@ -1,0 +1,24 @@
+{
+    "unchoosable": false,
+    "powers": [
+        "mysticorigins:biggersize",
+        "mysticorigins:more_hearts",
+        "mysticorigins:claws",
+        "mysticorigins:bite",
+        "mysticorigins:leg_boost",
+        "mysticorigins:beast_scream",
+        "origins:carnivore",
+        "origins:no_shield",
+        "mysticorigins:less_armor",
+        "origins:strong_arms_break_speed",
+
+        "mysticorigins:beast",
+        
+        "mysticorigins:scale_reset"
+    ],
+    "icon": "dried_kelp",
+    "order": 5,
+    "impact": 3,
+    "name": "Beast",
+    "description": "A giant creature haunting and rading farms and villages troughout the kingdom. It lives of the land, frequently killing animals which cross its path."
+}

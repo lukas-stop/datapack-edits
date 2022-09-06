@@ -1,0 +1,36 @@
+
+# Standard radius: 15 blocks
+
+Song of inspriration:
+- Gives all within radius haste 1, strenght 1 and speed 1
+- Duration: 5 minutes
+- Cost: 12 levels
+- Score: 60-70
+
+Song of intimidation:
+- Gives others within radius weakness 2
+- Duration: 20 seconds
+- Cost: 8 levels
+- Score: 100-110
+
+Song of psychic stress:
+- Gives others within radius nausea 2 and blindness 1
+- Duration: 10 seconds
+- Cost: 10 levels
+- Score: 45-55
+
+Song of Happy Dance:
+- Gives all within radius luck 2 and speed 1
+- Duration: 5 minutes
+- Cost: 5 Levels
+- Score: 80-90
+
+Dog flute: 
+- Summons a wolf
+- Cost: 5 levels
+- Score: 20-30
+
+Bird Intimitation:
+- Summons a parrot
+- Cost: 3 Levels
+- Score: 120-130

@@ -1,0 +1,27 @@
+{
+    "unchoosable": false,
+    "powers": [
+        "mysticorigins:endothermic",
+        "origins:carnivore",
+        "mysticorigins:amphibious",
+        "mysticorigins:lifecycle",
+        "mysticorigins:lifecycle_growth",
+        "mysticorigins:lifecycle_climbing",
+        "mysticorigins:lifecycle_cannibalism",
+        "mysticorigins:lifecycle_hunted",
+        "mysticorigins:lifecycle_venombite",
+        "mysticorigins:lifecycle_venom_immunity",
+        "mysticorigins:lifecycle_camouflage",
+
+        "mysticorigins:lifecycle_driver_dummy",
+        "mysticorigins:lifecycle_death_reset_dummy",
+        "mysticorigins:climbing_toggle",
+
+        "mysticorigins:scale_reset"
+    ],
+    "icon": "kelp",
+    "impact": 3,
+    "order": 2,
+    "name": "Lizardon",
+    "description": "These humanoid Reptiles are probably the reason for many myths and legends. This is also why noone knows their true Origin. While being earthbound unlike their draconic relatives, they did consequently evolve to live perfectly on land and water."
+}

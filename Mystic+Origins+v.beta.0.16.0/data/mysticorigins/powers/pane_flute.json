@@ -1,0 +1,45 @@
+{
+    "type": "origins:multiple",
+    "note_diplay": {
+        "type": "origins:action_over_time",
+        "interval": 20,
+        "entity_action": {
+            "type": "origins:execute_command",
+            "command": "function mysticorigins:faun/pane_flute_note_display"
+        },
+        "condition": {
+            "type": "origins:equipped_item",
+            "equipment_slot": "mainhand",
+            "item_condition": {
+                "type":"origins:ingredient",
+                "ingredient": {
+                    "item": "minecraft:sugar_cane"
+                }
+            }
+        }
+    },
+    "play_note": {
+        "type": "origins:active_self",
+        "cooldown": 10,
+        "entity_action": {
+            "type": "origins:execute_command",
+            "command":"function mysticorigins:faun/pane_flute"
+        },
+        "key": {
+            "key": "key.origins.primary_active",
+            "continuous": true
+        },
+        "condition": {
+            "type": "origins:equipped_item",
+            "equipment_slot": "mainhand",
+            "item_condition": {
+                "type":"origins:ingredient",
+                "ingredient": {
+                    "item": "minecraft:sugar_cane"
+                }
+            }
+        }
+    },
+    "name": "Pane Flute",
+    "description": "When holding a piece of sugar cane in your hand you can press your primary key to play the note shown to you in a title above the actionbar. You can play different notes by turning up or down."
+}

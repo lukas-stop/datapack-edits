@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "origins": [
+        "mysticorigins:draconic",
+        "mysticorigins:dwarf",
+        "mysticorigins:cyclops",
+        "mysticorigins:granite_gnom",
+        "mysticorigins:lizardon",
+        "mysticorigins:siren",
+        "mysticorigins:phoenix",
+        "mysticorigins:kobold",
+        "mysticorigins:faun",
+        "mysticorigins:beast",
+        "mysticorigins:wendigo",
+        "mysticorigins:banshee"
+    ]
+}

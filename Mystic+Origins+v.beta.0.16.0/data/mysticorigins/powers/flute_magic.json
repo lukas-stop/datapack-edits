@@ -1,0 +1,34 @@
+{
+    "type": "origins:multiple",
+    "activate": {
+        "type": "origins:active_self",
+        "entity_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:delay",
+                    "ticks": 300,
+                    "action": {
+                        "type": "origins:execute_command",
+                        "command": "function mysticorigins:faun/flute_magic"
+                    }
+                },
+                {
+                    "type": "origins:execute_command",
+                    "command":"scoreboard players reset @s mysticdata2"
+                }
+            ]
+        },
+        "cooldown": 300,
+        "key": {
+            "key": "key.origins.secondary_active"
+        },
+        "hud_render": {
+            "should_render": true,
+            "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_03.png",
+            "bar_index": 13
+        }
+    },
+    "name": "Flute Magic",
+    "description": "Using your pane flute you can make songs which have different impacts on you and/or people around you. Players can ignore this though by wearing leather helmets. To activate such a 'recording', press the secondary action key. For more Info see your song book or the website section."
+}

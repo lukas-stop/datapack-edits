@@ -1,0 +1,61 @@
+# Current:
+
+#####
+# Update: v.beta.0.16.0
+# Name:
+#   "Power of Sound"
+
+===========
+# Additions:
+- Added the "Faun" as a playable Origin.
+- Added the "Banshee" as a playable Origin.
+- Added the "Beast Roar" cosmetic power which can be found in the "Beast" Origin.
+- Added the "Creepy Ambiente" cosmetic power which can be found in the "Wendigo" Origin.
+- Added a hidden "bugfix" power to all Origins that affect size which will upon change of origin reset the players size to normal.
+
+===========
+# Changes:
+- Texts overviewed and typing error fixes. (Tbh, could post this for every update)
+- Reduced the speed bonus of the "Fast-Footed" Power.
+- The "Invisibility" Power now causes a slight amount of exhaustion.
+- Fixed the "Bite" Power so its now chance based, actually gives hunger and also shows when your bite has recharged.
+- The "Boost" Power now causes a slight amount of exhaustion.
+- Reduced the damage multipler of the "Dragonbane" Power to only 6 times.
+- Only players with an origin classed as "Beast" can now know if they are within the "Hunting ground" of a "Wendigo".
+- Creating a "Hunting ground" as a "Wendigo" now only costs 40 levels
+- Fixed an issue with the "Camouflage" Power of the "Lizardon" Origin being available much earlier than it should be.
+
+===========
+# Removed:
+===========
+# Comment:
+===========
+#####
+
+--- Previous versions: ---
+
+#####
+# Patch: v.beta.0.15.1
+# Name:
+#   "Text refinemend"
+
+===========
+# Additions:
+- Added a patch note document in the datapack folder itself.
+
+===========
+# Changes:
+- Went over the texts and fixed some typing errors.
+- Renamed the "Reptile" Power to "Endothermic"
+- Rewrote many Origin and Power descriptions to provide more details or mythological background if deemed appropriate.
+
+// Code side
+- Finally changed the file name of the "Draconic" Origin from "dragonborn" to "draconic". (Does not affect gameplay, only as an info if you use it in some sort of command)
+- Changed the file name of the "reptile" Power to "endothermic"
+
+===========
+# Removed:
+===========
+# Comment:
+===========
+#####

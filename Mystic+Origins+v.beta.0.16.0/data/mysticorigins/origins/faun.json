@@ -1,0 +1,16 @@
+{
+    "unchoosable": false,
+    "powers": [
+        "mysticorigins:pane_flute",
+        "mysticorigins:flute_magic",
+        "mysticorigins:song_book",
+        "mysticorigins:quick",
+
+        "origins:vegetarian"
+    ],
+    "icon": "sugar_cane",
+    "order": 3,
+    "impact": 2,
+    "name": "Faun",
+    "description": "Hoofed creatures of human statue. They love music and are general always in a happy mood. Followers of Pan they have mastered the art of the pane flute"
+}

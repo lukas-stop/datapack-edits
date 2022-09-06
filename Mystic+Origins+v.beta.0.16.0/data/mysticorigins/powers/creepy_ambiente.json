@@ -1,0 +1,17 @@
+{
+    "type": "origins:active_self",
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "playsound minecraft:ambient.crimson_forest.mood player @a ~ ~ ~ 3 0.5",
+        "permission_level": 4
+    },
+    "cooldown": 300,
+    "hud_render": {
+        "should_render": true,
+        "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_03.png",
+        "bar_index": 13
+    },
+    "key": "secondary",
+    "name": "Creepy Ambiente",
+    "description": "You can play a Crimson Forest mood track with the secondary Power key. Only cosmetic. The sound volume you hear is changeble trough the player section in music & sound options"
+}

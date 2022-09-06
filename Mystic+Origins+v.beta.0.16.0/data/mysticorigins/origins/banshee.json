@@ -1,0 +1,16 @@
+{
+    "unchoosable": false,
+    "powers": [
+        "mysticorigins:banshee_scream",
+        "mysticorigins:terrifiyng",
+        "mysticorigins:invisibility_toggle",
+        "mysticorigins:invisibility",
+        "origins:translucent",
+        "mysticorigins:photoallergic"
+    ],
+    "icon": "minecraft:glass_pane",
+    "order": 5,
+    "impact": 3,
+    "name": "Banshee",
+    "description": "Spirits which can unleash wails that let a shiver run through those who hear them. They are seen as omens of death yet are actually not that evil."
+}
