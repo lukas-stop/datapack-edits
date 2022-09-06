@@ -1,9 +1,0 @@
-{
-    "type": "origins:modify_swim_speed",
-    "modifier": {
-        "operation": "addition",
-        "value": 0.015
-    },
-    "name": "Amphibious",
-    "description": "Having also evolved to live partially in water you are a bit faster in water than normal players."
-}
