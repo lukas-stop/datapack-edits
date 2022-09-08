@@ -34,3 +34,8 @@ Bird Intimitation:
 - Summons a parrot
 - Cost: 3 Levels
 - Score: 120-130
+
+Song of Hoards:
+- Summons a hoard of zombies
+- Cost: 15 Levels
+- Score: 135-150

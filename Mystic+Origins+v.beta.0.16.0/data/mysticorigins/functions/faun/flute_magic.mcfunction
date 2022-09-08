@@ -37,6 +37,14 @@ execute if score @s mysticdata2 matches 120..130 if entity @s[level=3..] run par
 execute if score @s mysticdata2 matches 120..130 if entity @s[level=3..] run particle portal ^ ^1 ^1 1 1 1 0.1 5 force @a
 execute if score @s mysticdata2 matches 120..130 if entity @s[level=3..] run xp add @s -3 levels
 
+# Summon Zombies
+
+execute if score @s mysticdata2 matches 135..150 if entity @s[level=15..] run summon zombie ^ ^1 ^1 {Passengers:[{id:item,Passengers:[{id:zombie, Passengers:[{id:item, Passengers:[{id:zombie, Passengers:[{id:item, Passengers:[{id:zombie}]}]}]}]}]}]}
+execute if score @s mysticdata2 matches 135..150 if entity @s[level=15..] run particle poof ^ ^1 ^1 1 1 1 0.1 5 force @a
+execute if score @s mysticdata2 matches 135..150 if entity @s[level=15..] run particle portal ^ ^1 ^1 1 1 1 0.1 5 force @a
+execute if score @s mysticdata2 matches 135..150 if entity @s[level=15..] run xp add @s -15 levels
+
+
 # Reseting mysticdata2
 
 scoreboard players reset @s mysticdata2
