@@ -1,0 +1,12 @@
+{
+    "powers": [
+        "origins-classes:no_sprint_exhaustion",
+        "expanded-classes:scout_equipment",
+        "expanded-classes:starting_bow"
+    ],
+    "icon": "book",
+    "order": 10,
+    "impact": 0,
+    "name": "Scout",
+    "description": "Scouts can often collect valueable information about a battlefield and find weakpoints in the enemys defenses."
+}

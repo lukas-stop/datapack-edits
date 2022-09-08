@@ -1,0 +1,11 @@
+{
+    "powers": [
+        "origins-classes:better_enchanting",
+        "expanded-classes:knowdledge_seeking"
+    ],
+    "icon": "bookshelf",
+    "order": 8,
+    "impact": 0,
+    "name": "Librarian",
+    "description": "Spending their time reading books, they have a great collection of knowdledge stored in their head."
+}

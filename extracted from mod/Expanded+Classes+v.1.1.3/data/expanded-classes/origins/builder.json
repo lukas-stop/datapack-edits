@@ -1,0 +1,12 @@
+{
+    "unchoosable": false,
+    "powers": [
+        "expanded-classes:more_reach",
+        "expanded-classes:scaffolding_craft"
+    ],
+    "icon": "scaffolding",
+    "order": 19,
+    "impact": 0,
+    "name": "Builder",
+    "description": "Builders are those responsible for creating a vast variety of structures, ranging from simple bunkers to complex mansions."
+}

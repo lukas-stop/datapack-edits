@@ -1,0 +1,11 @@
+{
+    "powers": [
+        "origins-classes:more_animal_loot",
+        "origins-classes:less_bow_slowdown"
+    ],
+    "icon": "arrow",
+    "order": 3,
+    "impact": 0,
+    "name": "Hunter",
+    "description": "Hunters use their skills to hunt down their prey."
+}

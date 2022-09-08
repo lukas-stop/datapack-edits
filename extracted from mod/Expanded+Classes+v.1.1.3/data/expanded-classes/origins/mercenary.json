@@ -1,0 +1,12 @@
+{
+    "powers": [
+        "origins-classes:more_attack_damage",
+        "origins-classes:stealth",
+        "origins-classes:stealth_descriptor"
+    ],
+    "icon": "stone_sword",
+    "order": 11,
+    "impact": 0,
+    "name": "Mercenary",
+    "description": "Not quite rogue, not quite honorable, Mercenarys often fight for the highest bider."
+}

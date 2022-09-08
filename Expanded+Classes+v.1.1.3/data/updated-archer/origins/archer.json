@@ -3,7 +3,8 @@
     "origins-classes:no_projectile_divergence",
     "origins-classes:less_bow_slowdown",
     "origins-classes:sneaky",
-    "origins-classes: no_sprint_exhaustion"
+    "origins-classes: no_sprint_exhaustion",
+    "updated-archer:starting_bow"
   ],
   "icon": "minecraft:bow",
   "order": 11,

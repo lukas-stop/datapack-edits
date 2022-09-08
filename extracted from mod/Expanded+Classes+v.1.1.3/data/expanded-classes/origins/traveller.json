@@ -1,0 +1,11 @@
+{
+    "powers": [
+        "origins-classes:rare_wandering_loot",
+        "origins-classes:no_sprint_exhaustion"
+    ],
+    "icon": "map",
+    "order": 11,
+    "impact": 0,
+    "name": "Traveller",
+    "description": "Wandering through the world, travellers often have the most beculier stories to tell."
+}

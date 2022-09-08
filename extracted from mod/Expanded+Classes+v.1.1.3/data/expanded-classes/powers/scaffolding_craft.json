@@ -1,0 +1,25 @@
+{
+    "type": "origins:recipe",
+    "recipe": {
+        "id": "expanded-classes:scaffolding_craft",
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+            "/S/",
+            "/ /"
+        ],
+        "key": {
+            "/": {
+                "item": "minecraft:stick"
+            },
+            "S": {
+                "item": "minecraft:string"
+            }
+        },
+        "result": {
+            "item": "minecraft:scaffolding",
+            "count": 10
+        }
+    },
+    "name": "Scaffolding",
+    "description": "You can craft scaffolding blocks with sticks to get more."
+}

@@ -1,0 +1,10 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "reach-entity-attributes:reach",
+        "value": 1.5,
+        "operation": "addition"
+      },
+    "name": "Builder's Reach",
+    "description": "You have an learned to make the full use of your reach, and have an one extra block of building reach"
+}

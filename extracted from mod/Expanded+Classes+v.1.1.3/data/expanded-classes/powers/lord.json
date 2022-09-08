@@ -1,0 +1,14 @@
+{
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "minecraft:writable_book"
+        },
+        {
+            "item": "minecraft:map",
+            "amount": 4
+        }
+    ],
+    "name": "Land Lord",
+    "description": "You start the game with a book and 4 maps to register your to you rightfully belonging land."
+}

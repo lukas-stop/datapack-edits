@@ -1,0 +1,12 @@
+{
+    "unchossable": true,
+    "powers": [
+        "origins-classes:more_stone_break_speed",
+        "expanded-classes:more_stone_recipes"
+    ],
+    "icon": "stonecutter",
+    "order": 0,
+    "impact": 0,
+    "name": "Mason (WIP)",
+    "description": "Masons are regarded for their talent to turn bland pieces of stone into useful bricks and blocks."
+}

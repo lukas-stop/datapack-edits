@@ -1,0 +1,14 @@
+{
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "minecraft:bow"
+        },
+        {
+            "item": "minecraft:arrow",
+            "amount": 20
+        }
+    ],
+    "name": "Hostile Land",
+    "description": "You start the game with a bow and 20 arrows."
+}

@@ -1,0 +1,157 @@
+{
+    "type": "origins:multiple",
+    "stair_1": {
+        "type": "origins:recipe",
+            "recipe": {
+                "type": "minecraft:crafting_shaped",
+                "pattern": [
+                "# ",
+                "##"
+                ],
+                "key": {
+                    "#":    {
+                    "item": "minecraft:oak_planks"
+                    }
+                },
+                "result": {
+                "item": "minecraft:oak_stairs",
+                "count": 3
+            }
+        }   
+    },
+    "stair_2": {
+        "type": "origins:recipe",
+            "recipe": {
+                "type": "minecraft:crafting_shaped",
+                "pattern": [
+                "# ",
+                "##"
+                ],
+                "key": {
+                    "#":    {
+                    "item": "minecraft:spruce_planks"
+                    }
+                },
+                "result": {
+                "item": "minecraft:spruce_stairs",
+                "count": 3
+            }
+        }   
+    },
+    "stair_3": {
+        "type": "origins:recipe",
+            "recipe": {
+                "type": "minecraft:crafting_shaped",
+                "pattern": [
+                "# ",
+                "##"
+                ],
+                "key": {
+                    "#":    {
+                    "item": "minecraft:birch_planks"
+                    }
+                },
+                "result": {
+                "item": "minecraft:birch_stairs",
+                "count": 3
+            }
+        }   
+    },
+    "stair_4": {
+        "type": "origins:recipe",
+            "recipe": {
+                "type": "minecraft:crafting_shaped",
+                "pattern": [
+                "# ",
+                "##"
+                ],
+                "key": {
+                    "#":    {
+                    "item": "minecraft:dark_oak_planks"
+                    }
+                },
+                "result": {
+                "item": "minecraft:dark_oak_stairs",
+                "count": 3
+            }
+        }   
+    },
+    "stair_5": {
+        "type": "origins:recipe",
+            "recipe": {
+                "type": "minecraft:crafting_shaped",
+                "pattern": [
+                "# ",
+                "##"
+                ],
+                "key": {
+                    "#":    {
+                    "item": "minecraft:jungle_planks"
+                    }
+                },
+                "result": {
+                "item": "minecraft:jungle_stairs",
+                "count": 3
+            }
+        }   
+    },
+    "stair_6": {
+        "type": "origins:recipe",
+            "recipe": {
+                "type": "minecraft:crafting_shaped",
+                "pattern": [
+                "# ",
+                "##"
+                ],
+                "key": {
+                    "#":    {
+                    "item": "minecraft:crimson_planks"
+                    }
+                },
+                "result": {
+                "item": "minecraft:crimson_stairs",
+                "count": 3
+            }
+        }   
+    },
+    "stair_7": {
+        "type": "origins:recipe",
+            "recipe": {
+                "type": "minecraft:crafting_shaped",
+                "pattern": [
+                "# ",
+                "##"
+                ],
+                "key": {
+                    "#":    {
+                    "item": "minecraft:warped_planks"
+                    }
+                },
+                "result": {
+                "item": "minecraft:warped_stairs",
+                "count": 3
+            }
+        }   
+    },
+    "stair_8": {
+        "type": "origins:recipe",
+            "recipe": {
+                "type": "minecraft:crafting_shaped",
+                "pattern": [
+                "# ",
+                "##"
+                ],
+                "key": {
+                    "#":    {
+                    "item": "minecraft:acacia_planks"
+                    }
+                },
+                "result": {
+                "item": "minecraft:acacia_stairs",
+                "count": 3
+            }
+        }   
+    },
+    "name": "Wood Crafter",
+    "description": "Being a master of wood crafting, you dont need that much wooden planks for certain items."
+}

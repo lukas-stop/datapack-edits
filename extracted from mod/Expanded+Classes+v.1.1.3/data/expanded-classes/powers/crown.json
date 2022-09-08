@@ -1,0 +1,10 @@
+{
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "minecraft:golden_helmet"
+        }
+    ],
+    "name": "Crown",
+    "description": "You start the game with a golden helmet."
+}

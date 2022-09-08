@@ -1,0 +1,12 @@
+{
+    "unchoosable": true,
+    "powers": [
+        "origins-classes:more_planks_from_logs",
+        "expanded-classes:cheaper_wood_recipes"
+    ],
+    "icon": "oak_planks",
+    "order": 17,
+    "impact": 0,
+    "name": "Carpenter",
+    "description": "Carpenters are respected for creating the most divers things out of just a block of wood."
+}

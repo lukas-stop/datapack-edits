@@ -1,0 +1,11 @@
+{
+    "powers": [
+        "expanded-classes:crown",
+        "expanded-classes:treasury"
+    ],
+    "icon": "golden_helmet",
+    "order": 9,
+    "impact": 0,
+    "name": "Royal",
+    "description": "You dont really have any special traits other than your divine power."
+}

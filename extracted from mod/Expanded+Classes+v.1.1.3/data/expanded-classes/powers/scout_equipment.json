@@ -1,0 +1,10 @@
+{
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "minecraft:writable_book"
+        }
+    ],
+    "name": "Scout Notes",
+    "description": "You start the game with a book and quill."
+}

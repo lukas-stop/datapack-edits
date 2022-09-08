@@ -1,0 +1,11 @@
+{
+    "powers": [
+        "expanded-classes:lord",
+        "expanded-classes:treasury"
+    ],
+    "icon": "gold_ingot",
+    "order": 8,
+    "impact": 0,
+    "name": "Royal",
+    "description": "Like a Royal you dont really have any special traits, you do however come from a rich household."
+}

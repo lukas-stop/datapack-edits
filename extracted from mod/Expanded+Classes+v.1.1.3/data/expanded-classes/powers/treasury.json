@@ -1,0 +1,14 @@
+{
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "minecraft:diamond"
+        },
+        {
+            "item": "minecraft:gold_ingot",
+            "amount": 10
+        }
+    ],
+    "name": "Treasury",
+    "description": "You start the game with a diamond and 10 gold ingots."
+}
